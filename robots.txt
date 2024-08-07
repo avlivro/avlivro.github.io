@@ -1,4 +1,4 @@
-Sitemap: https://avlivro.aybala.kz/sitemap_index.xml
+Sitemap: https://avlivro.github.io/sitemap.xml
 User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/
+Disallow: /private/
+Allow: /
