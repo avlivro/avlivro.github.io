@@ -3,7 +3,7 @@
 <p align="center">
   <img src="avlivro.png" alt="Always Visible (Another Prayer for the Dying Horror Genre)" />
 </p>
-Tagline: **The waves of truth tends to extinguish fire of the falsehood**
+Tagline: The waves of truth tends to extinguish fire of the falsehood.
 
 ## Description
 
