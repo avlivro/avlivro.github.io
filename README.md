@@ -1,5 +1,9 @@
 # Always Visible — avlivro
 
+<p align="center">
+  <img src="avlivro.png" alt="Always Visible (Another Prayer for the Dying Horror Genre)" />
+</p>
+
 ## Description
 
 Welcome to the repository for the **"Always Visible — avlivro"** website. This repository hosts the static version of the website for the literary work **"Always Visible (Another Prayer for the Dying Horror Genre)"** written by **Vitaly Ivolginsky**, inspired by the film **"Omen IV: The Awakening"** and dedicated to **Asia Vieira**.
